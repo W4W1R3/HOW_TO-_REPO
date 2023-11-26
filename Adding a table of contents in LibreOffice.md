@@ -11,6 +11,8 @@ Once you are at the right place, click on the Insert button and select Table of 
 
 This will open a dialog box for tweaking the table of contents. For the default ToC, select a name you want for the heading and then press OK.
 
+Remember to untick `Protect against manual changes` to have an editable TOC
+
 ![Screenshot](2.webp)
 
 This will add a simple table of contents for your entire document based on the headings.
