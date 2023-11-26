@@ -9,6 +9,7 @@ Explore our collection of step-by-step guides on different tech topics. Whether 
 
 - [How to move VirtualBox files?](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/How%20to%20move%20VirtualBox%20files%3F.md)
 
+- [Adding a table of contents in LibreOffice.md](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Adding%20a%20table%20of%20contents%20in%20LibreOffice.md)
 
 
 
