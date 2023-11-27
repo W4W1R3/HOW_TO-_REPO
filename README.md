@@ -7,7 +7,7 @@ Welcome to the HOW_TO_REPO! This repository is a collection of guides and soluti
 
 Explore our collection of step-by-step guides on different tech topics. Whether you're interested in programming, system administration, or cybersecurity, you'll find useful information to enhance your skills.
 
-- [How to move VirtualBox files?](/Files/https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/How%20to%20move%20VirtualBox%20files%3F.md)
+- [How to move VirtualBox files?](Files/https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/How%20to%20move%20VirtualBox%20files%3F.md)
 
 - [Adding a table of contents in LibreOffice.md](/Files/https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Adding%20a%20table%20of%20contents%20in%20LibreOffice.md)
 
