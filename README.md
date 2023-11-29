@@ -13,7 +13,7 @@ Explore our collection of step-by-step guides on different tech topics. Whether 
 
 - [How to move VirtualBox files?.md](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Files/How%20to%20move%20VirtualBox%20files%3F.md)
 
-- [How to Setup MobSF — Linux.md](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Files/How%20to%20Setup%20MobSF%20%E2%80%94%20Linux.md)
+- [How to Setup MobSF On Linux.md](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Files/How%20to%20Setup%20MobSF%20On%20Linux.md)
 
 
 
