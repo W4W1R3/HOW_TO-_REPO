@@ -16,7 +16,7 @@ The easiest method doesn't require removing your virtual machines and mucking up
     
     7. Add a controller for the media (SATA usually) and then add a hard drive and choose existing disk and select the VD at your new location.
 
-    4. Repeat for each machine you're moving
+    8. Repeat for each machine you're moving
 
 
 Fire off your virtual machine at the new location to check. Next time you visit the Virtual Media Manager, hovering over the VM entry will show you where the VD is stored.
