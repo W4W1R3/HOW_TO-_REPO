@@ -2,11 +2,19 @@
 
 The easiest method doesn't require removing your virtual machines and mucking up their settings.
 
-    1. Copy your Virtualbox VMs folder to a new drive. Run the Virtual Box Machine Manager. Run the media Manager File -> Virtual Media Manager
+    1. Copy your Virtualbox VMs folder to a new drive. Run the Virtual Box Machine Manager.
+    
+    2. Run the media Manager File -> Virtual Media Manager
 
-    2. Choose the VM to move storage for. Click the Release button and then the Remove button. On the next dialog, you can either remove or keep the virtual drive. Close the manager leaving you in your Virtualbox Machine Manager.
+    3. Choose the VM to move storage for. Click the Release button and then the Remove button. 
+    
+    4. On the next dialog, you can either remove or keep the virtual drive.
+    
+    5. Close the manager leaving you in your Virtualbox Machine Manager.
 
-    3. Select the VM you just removed media for, click the Settings button, Click the Storage section. Add a controller for the media (SATA usually) and then add a hard drive and choose existing disk and select the VD at your new location.
+    6. Select the VM you just removed media for, click the Settings button, Click the Storage section. 
+    
+    7. Add a controller for the media (SATA usually) and then add a hard drive and choose existing disk and select the VD at your new location.
 
     4. Repeat for each machine you're moving
 
