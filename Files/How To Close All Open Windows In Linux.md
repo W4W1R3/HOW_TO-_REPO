@@ -1,4 +1,4 @@
-###How To Close All Open Windows In Linux
+### How To Close All Open Windows In Linux
 
 One of the most annoying things in any operating system is a situation when you have many open windows and you suddenly want to power off your computer and rush to do something urgent. 
 
