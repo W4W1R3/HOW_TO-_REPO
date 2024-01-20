@@ -16,7 +16,7 @@ Explore our collection of step-by-step guides on different tech topics. Whether 
 - [How to Setup MobSF On Linux](https://github.com/W4W1R3/HOW_TO-_REPO/blob/main/Files/How%20to%20Setup%20MobSF%20On%20Linux.md)
     
  - [How To Clear .Cache Folders and Free Up Space On Your Linux PC](https://github.com/W4W1R3/HOW_TO_REPO/blob/main/Files/How%20To%20Clear%20.Cache%20Folders%20and%20Free%20Up%20Space%20On%20Your%20Linux%20PC.md)
- - 
+   
  - [How To Close All Open Windows In Linux](https://github.com/W4W1R3/HOW_TO_REPO/blob/main/Files/How%20To%20Close%20All%20Open%20Windows%20In%20Linux.md) 
     
 
